@@ -29,7 +29,7 @@ El origen de las bases de datos era en los ficheros `.txt` y `.csv`, que si bien
 
 ![Edgar Codd](https://github.com/breatheco-de/content/blob/master/src/assets/images/11fcd6d8-6177-4f42-b4e0-7b6475f24b0a.jpeg?raw=true)
 
-Frente a este panorama, en algún momento, un científico propondría una forma de hacer mejor las cosas, y fue [Edgar](https://en.wikipedia.org/wiki/Edgar_F._Codd), quien decidió rediseñar esos archivos y creó una forma estándar de almacenar datos en archivos centrados en el rendimiento y la integridad. Se asoció con [Donald](https://en.wikipedia.org/wiki/Donald_D._Chamberlin) y juntos crearon un lenguaje llamado SQL, que fue diseñado para trabajar con datos de una manera muy amigable.
+Frente a este panorama, en algún momento, un científico propondría una forma de hacer mejor las cosas, y fue [Edgar](https://en.wikipedia.org/wiki/Edgar_F._Codd) quien decidió rediseñar esos archivos y creó una forma estándar de almacenar datos en archivos centrados en el rendimiento y la integridad. Se asoció con [Donald](https://en.wikipedia.org/wiki/Donald_D._Chamberlin) y juntos crearon un lenguaje llamado SQL, que fue diseñado para trabajar con datos de una manera muy amigable.
 
 ### Componentes de una base de datos
 
